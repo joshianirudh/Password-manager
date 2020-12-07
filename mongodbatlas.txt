@@ -1,0 +1,18 @@
+//credentials to log int mongo db atlas
+
+//login cred for mongodb atlas
+uclslhrvpknpjsggxj@miucce.com
+pes@12345
+
+//Cluster Name
+Cluster285827619358
+
+//Cluster User cred
+administrator
+admin@1300135
+
+//IP Address
+
+
+
+
